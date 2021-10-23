@@ -1,0 +1,2 @@
+# MyFirstRepo
+Portofolia pertama saya
